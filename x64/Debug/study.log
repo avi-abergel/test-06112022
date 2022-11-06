@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (study.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  debug1.c
+C:\Users\97252\source\repos\study\study\debug1.c(4): fatal error C1075: '{': no matching token found
+  debug2.c
+  debug3.c
+C:\Users\97252\source\repos\study\study\debug3.c(37,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\97252\source\repos\study\study\debug3.c(29,17): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+C:\Users\97252\source\repos\study\study\debug2.c(15): error C4700: uninitialized local variable 'x' used
+C:\Users\97252\source\repos\study\study\debug2.c(16): error C4700: uninitialized local variable 'y' used
